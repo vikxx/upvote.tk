@@ -26,7 +26,7 @@ img {
 }
 
 .site-logo-row {
-  min-height: 200px;
+  min-height: 90px;
 }
 
 .is-compact .site-logo-row {
@@ -36,9 +36,9 @@ img {
 .site-logo {
   background: url(../img/logo.png) 50% no-repeat;
   background-size: cover;
-  height: 30px;
-  width: 30px;
-  margin: 15px auto;
+  height: 80px;
+  width: 80px;
+  margin: 5px auto;
 }
 
 .is-compact .site-logo {
