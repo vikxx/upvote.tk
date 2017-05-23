@@ -353,7 +353,7 @@ ul#replies {
 	  
 	  #loaderplace.bg
 	  {transition:transform 4s cubic-bezier(1, -0.56, 0.1, 1.64);
-		background: url(redloader.gif) center center no-repeat #505050;
+		background: url(../img/redloader.gif) center center no-repeat #505050;
 		max-width: 600px;
 		margin: 0 auto;
 		max-height: 600px;
